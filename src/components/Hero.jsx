@@ -12,8 +12,11 @@ const Hero = () => {
         article summarizer that transforms lengthy articles into clear and
         concise summaries
       </h2>
-      <h3 className="desc">
-        Example article :
+      <h3
+        className="url_input peer"
+        style={{ width: "60%", marginTop: "20px", textAlign: "center" }}
+      >
+        Example link:
         https://medium.com/@tkmh/how-i-built-surf-status-2ca2ca8a6fbf
       </h3>
     </header>
