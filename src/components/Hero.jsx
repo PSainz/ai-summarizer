@@ -14,7 +14,7 @@ const Hero = () => {
       </h2>
       <h3
         className="url_input peer"
-        style={{ width: "60%", marginTop: "20px", textAlign: "center" }}
+        style={{ marginTop: "20px", textAlign: "center" }}
       >
         Example link:
         https://medium.com/@tkmh/how-i-built-surf-status-2ca2ca8a6fbf
